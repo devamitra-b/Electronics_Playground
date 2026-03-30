@@ -11,6 +11,7 @@ A	B	Output
 1	0 	0
 1	1 	1
 Expression: Y = A · B
+
 2. OR Gate:
 Output = 1 if at least one input is 1
 A	B	Output
