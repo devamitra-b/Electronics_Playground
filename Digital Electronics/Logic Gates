@@ -36,6 +36,7 @@ Y = (A · B)̅
 5. NOR Gate:
 Opposite of OR
 Y = (A + B)̅
+
 Other Gates:
 XOR (Exclusive OR) → Output = 1 when inputs are different
 XNOR → Output = 1 when inputs are same
