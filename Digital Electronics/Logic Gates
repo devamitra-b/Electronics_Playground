@@ -1,6 +1,7 @@
 What are Logic Gates?
 Logic gates are basic building blocks of digital circuits
 They take binary inputs (0 or 1) and give binary output
+
 Types of Basic Logic Gates:
 1. AND Gate:
 Output = 1 only if both inputs are 1
