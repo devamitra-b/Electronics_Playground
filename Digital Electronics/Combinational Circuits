@@ -13,5 +13,5 @@ Adds three bits (A, B, Carry-in)
 3. Multiplexer (MUX):
 Selects one input from many
 
-4. Decoder
+4. Decoder:
 Converts binary input into outputs
