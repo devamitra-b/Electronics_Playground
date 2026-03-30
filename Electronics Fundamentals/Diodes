@@ -1,0 +1,19 @@
+What is a Diode?
+A diode is a two-terminal device that allows current in only one direction.
+Works like a one-way switch
+
+Terminals
+Anode (+)
+Cathode (−)
+Working
+1. Forward Bias
+Current flows
+Diode conducts
+2. Reverse Bias
+No current flows
+Diode blocks current
+Types of Diodes
+Rectifier Diode – converts AC to DC
+Zener Diode – used for voltage regulation
+LED (Light Emitting Diode) – emits light
+Photodiode – detects light
