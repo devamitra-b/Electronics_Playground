@@ -1,0 +1,36 @@
+What are Logic Gates?
+Logic gates are basic building blocks of digital circuits
+They take binary inputs (0 or 1) and give binary output
+Types of Basic Logic Gates
+1. AND Gate:
+Output = 1 only if both inputs are 1
+A	B	Output
+0	0 	0
+0	1 	0
+1	0 	0
+1	1 	1
+Expression: Y = A · B
+2. OR Gate:
+Output = 1 if at least one input is 1
+A	B	Output
+0	0 	0
+0	1 	1
+1	0 	1
+1	1	  1
+Expression: Y = A + B
+3. NOT Gate:
+Gives opposite output
+A	Output
+0 	1
+1	 0
+Expression: Y = A̅
+Universal Gates:
+4. NAND Gate:
+Opposite of AND
+Y = (A · B)̅
+5. NOR Gate:
+Opposite of OR
+Y = (A + B)̅
+Other Gates:
+XOR (Exclusive OR) → Output = 1 when inputs are different
+XNOR → Output = 1 when inputs are same
