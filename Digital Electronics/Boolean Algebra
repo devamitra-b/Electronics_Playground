@@ -13,6 +13,7 @@ A · 1 = A
 2. Null Law:
 A + 1 = 1
 A · 0 = 0
+
 3. Idempotent Law:
 A + A = A
 A · A = A
