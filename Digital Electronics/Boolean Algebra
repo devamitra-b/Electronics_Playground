@@ -17,6 +17,7 @@ A · 0 = 0
 3. Idempotent Law:
 A + A = A
 A · A = A
+
 4. Complement Law:
 A + A̅ = 1
 A · A̅ = 0
