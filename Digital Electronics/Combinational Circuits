@@ -1,0 +1,13 @@
+What are they?
+Output depends only on present inputs
+No memory
+Examples
+1. Half Adder
+Adds two bits
+Output: Sum & Carry
+2. Full Adder
+Adds three bits (A, B, Carry-in)
+3. Multiplexer (MUX)
+Selects one input from many
+4. Decoder
+Converts binary input into outputs
