@@ -1,6 +1,6 @@
 What is Boolean Algebra?
 A mathematical system used to analyze and simplify digital circuits
-Basic Operations::
+Basic Operations:
 AND → Multiplication (·)
 OR → Addition (+)
 NOT → Complement (̅)
