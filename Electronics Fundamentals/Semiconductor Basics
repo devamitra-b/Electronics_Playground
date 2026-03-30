@@ -1,0 +1,21 @@
+What is a Semiconductor?
+A semiconductor is a material with conductivity between conductor and insulator.
+Example: Silicon (Si), Germanium (Ge)
+It can conduct or block electricity depending on conditions.
+Types of Semiconductors:
+1. Intrinsic Semiconductor
+Pure semiconductor (no impurities)
+Low conductivity
+2. Extrinsic Semiconductor (Doped)
+Impurities are added to improve conductivity
+Two types:
+a) N-type Semiconductor
+Extra electrons (negative charge carriers)
+Majority carriers: Electrons
+b) P-type Semiconductor
+Missing electrons (called holes)
+Majority carriers: Holes
+P-N Junction
+Formed by joining P-type and N-type materials
+Creates a depletion region (no charge carriers)
+Basis for diodes and transistors
