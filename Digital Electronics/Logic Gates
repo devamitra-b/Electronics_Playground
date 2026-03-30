@@ -32,6 +32,7 @@ Universal Gates:
 4. NAND Gate:
 Opposite of AND
 Y = (A · B)̅
+
 5. NOR Gate:
 Opposite of OR
 Y = (A + B)̅
