@@ -7,7 +7,7 @@ Examples:
 Adds two bits
 Output: Sum & Carry
 
-2. Full Adder
+2. Full Adder:
 Adds three bits (A, B, Carry-in)
 3. Multiplexer (MUX)
 Selects one input from many
