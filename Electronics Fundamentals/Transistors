@@ -1,0 +1,22 @@
+What is a Transistor?
+A transistor is a three-terminal device used for:
+Amplification
+Switching
+Types of Transistors
+1. BJT (Bipolar Junction Transistor)
+
+Two types:
+
+NPN
+PNP
+Terminals
+Emitter (E) – releases charge carriers
+Base (B) – controls the transistor
+Collector (C) – collects charge carriers
+Working (Simple Idea)
+A small current at the base controls a large current between collector and emitter
+ Like a control valve
+
+2. FET (Field Effect Transistor)
+Voltage-controlled device
+Types: JFET, MOSFET
