@@ -21,6 +21,7 @@ A · A = A
 4. Complement Law:
 A + A̅ = 1
 A · A̅ = 0
+
 5. De Morgan’s Theorem:
 (A · B)̅ = A̅ + B̅
 (A + B)̅ = A̅ · B̅
