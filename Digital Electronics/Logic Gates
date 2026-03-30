@@ -20,6 +20,7 @@ A	B	Output
 1	0 	1
 1	1	  1
 Expression: Y = A + B
+
 3. NOT Gate:
 Gives opposite output
 A	Output
