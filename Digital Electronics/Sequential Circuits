@@ -2,6 +2,7 @@ What are they?
 Output depends on:
 Present input
 Previous output (memory)
+
 Key Element: Flip-Flop
 Types:
 SR Flip-Flop
