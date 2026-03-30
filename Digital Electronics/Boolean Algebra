@@ -1,0 +1,22 @@
+What is Boolean Algebra?
+A mathematical system used to analyze and simplify digital circuits
+Basic Operations::
+AND → Multiplication (·)
+OR → Addition (+)
+NOT → Complement (̅)
+Important Laws:
+1. Identity Law:
+A + 0 = A
+A · 1 = A
+2. Null Law:
+A + 1 = 1
+A · 0 = 0
+3. Idempotent Law:
+A + A = A
+A · A = A
+4. Complement Law:
+A + A̅ = 1
+A · A̅ = 0
+5. De Morgan’s Theorem:
+(A · B)̅ = A̅ + B̅
+(A + B)̅ = A̅ · B̅
