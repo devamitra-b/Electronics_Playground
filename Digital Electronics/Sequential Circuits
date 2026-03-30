@@ -1,0 +1,15 @@
+What are they?
+Output depends on:
+Present input
+Previous output (memory)
+Key Element: Flip-Flop
+Types:
+SR Flip-Flop
+JK Flip-Flop
+D Flip-Flop
+T Flip-Flop
+Examples of Sequential Circuits
+1. Registers
+Store data
+2. Counters
+Count pulses (0,1,2,3...)
