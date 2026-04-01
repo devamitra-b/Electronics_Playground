@@ -2,7 +2,6 @@ What are they?
 Output depends only on present inputs,
 No memory.
 
-
 Examples:
 1. Half Adder:
 Adds two bits
