@@ -1,0 +1,101 @@
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Circuit Design Files (temporary/backup)
+*.bak
+*.tmp
+*.~*
+*.zip
+*.rar
+
+# Proteus Design Suite
+*.prjpcb
+*.prjlyt
+Debugger.log
+**/History/
+**/Previews/
+
+# Multisim
+*.ewb
+*.cache
+
+# KiCAD
+*.kicad_pcb-bak
+*.sch-bak
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# OS Specific
+.AppleDouble
+.LSOverride
+._*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.pdf.bak
+
+# Temporary files
+.env
+.env.local
+secrets.txt
+temp/
+tmp/
+
+# Project specific
+/output/
+/build/
+/dist/
+
+# Backup files
+*.backup
+*.old
+
+# Git-related
+.gitkeep
+
+# Documentation generated files
+/docs/_build/
+/site/
