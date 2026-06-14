@@ -285,6 +285,7 @@ This repository represents an ongoing journey in learning and mastering Electron
 
 ---
 
+
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
