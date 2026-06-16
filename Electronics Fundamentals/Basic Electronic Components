@@ -15,6 +15,7 @@ Used in transformers, filters
 
 4. Switch:
 Opens or closes a circuit
+
 5. Battery:
 Provides electrical energy (DC supply)
 6. LED:
