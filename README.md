@@ -276,8 +276,8 @@ Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## 🏆 Achievements
 
-- 🏅 YOLO — You want it? You merge it. Unlocked on Aug 29, 2026 (Merged without a review)
-- 🏅 Completed **Digital Electronics** course with distinction — Score: 98% (June 2026)
+- 🏅 YOLO — “You want it? You merge it.” — Merged without a review (Unlocked Aug 29, 2026)
+- 🏅 Digital Electronics — Completed with distinction (98%), June 2026
 
 ---
 
