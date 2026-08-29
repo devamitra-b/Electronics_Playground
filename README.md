@@ -274,16 +274,24 @@ Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 👨‍💻 Author
+## 🏆 Achievements
 
-**Devamitra B**
-
-- 🔗 [GitHub Profile](https://github.com/devamitra-b)
-- 📧 Contact: [Available on GitHub](https://github.com/devamitra-b)
-
-This repository represents an ongoing journey in learning and mastering Electronics. It will continue to evolve as new concepts are explored and understanding deepens.
+- 🏅 YOLO — You want it? You merge it. Unlocked on Aug 29, 2026 (Merged without a review)
+- 🏅 Completed **Digital Electronics** course with distinction — Score: 98% (June 2026)
 
 ---
+
+## 🙏 Acknowledgments
+
+This repository represents my ongoing learning journey in Electronics and Digital Systems. Special thanks to:
+- Dr. Balajee Seshadri and Dr. Danieal Raj A for excellent instruction
+- ETALVIS.COM for comprehensive learning platform
+- The open-source community for tools and resources
+
+---
+
+**Last Updated**: June 12, 2026  
+**Repository Status**: Active Development ✨
 
 
 ## 📄 License
