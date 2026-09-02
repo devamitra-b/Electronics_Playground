@@ -64,9 +64,6 @@ Introduction to electronic components:
 
 **Location**: `/02-electronics-fundamentals/`
 
-
-
-
 ### 3. Number Systems
 Digital number representations:
 - Binary, Decimal, Octal, Hexadecimal systems
